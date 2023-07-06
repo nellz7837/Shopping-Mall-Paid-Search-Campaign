@@ -16,15 +16,14 @@ Manajer Marketing menginginkan laporan analisis tentang performa iklan selama 5 
 7. Bagaimana tren total cost dan revenue selama periode campaign?
 8. Bagaimana tren clicks dan impressions selama periode campaign?
 9. Bagaimana tren CPM, CPC, CPA selama periode campaign?
-10. Total konversi tertinggi terdapat pada Ad Group apa jika dilihat dari devices dan math type nya?
-11. Bagaimana Awareness Stage Metrics secara keseluruhan berdasarkan Ad Group, Devices, dan Match Type nya?
-12. Bagaimana Consideration Stage Metrics secara keseluruhan berdasarkan Ad Group, Devices, dan Match Type nya?
-13. Bagaimana Conversion/Decision Metrics secara keseluruhan berdasarkan Ad Group, Devices, dan Match Type nya?
+10. Bagaimana Awareness Stage Metrics secara keseluruhan berdasarkan Ad Group, Devices, dan Match Type nya?
+11. Bagaimana Consideration Stage Metrics secara keseluruhan berdasarkan Ad Group, Devices, dan Match Type nya?
+12. Bagaimana Conversion/Decision Metrics secara keseluruhan berdasarkan Ad Group, Devices, dan Match Type nya?
 
-# Hasil Analisa
+## Hasil Analisa
 
-Medium
+[Medium] (https://medium.com/@nelly.asrizawati/business-analytics-shopping-mall-paid-search-campaign-56b4d70662b6)
 
-# Visualisasi Dashboard
+## Visualisasi Dashboard
 
-Tableau
+[Tableau] (https://public.tableau.com/app/profile/nelly.asrizawati/viz/ShoppingMallPaidSearchCampaign_16886549113180/Dashboard1?publish=yes(
